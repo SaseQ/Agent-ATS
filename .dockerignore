@@ -1,0 +1,15 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+.env
+.venv
+venv
+.envrc
+.DS_Store
+.idea
+.ai-docs
+ai-docs
